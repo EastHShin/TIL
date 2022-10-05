@@ -22,8 +22,8 @@ Hippo
 
 → 이것은 잘못된 데이터 측정 방법
 
-![Untitled](![1](https://user-images.githubusercontent.com/64204666/194036522-a227d7c0-6f42-4441-84b8-19b5134f9687.png)
-)
+![1](https://user-images.githubusercontent.com/64204666/194036809-ebe011c0-5c8e-4008-8c4c-3dc85306bce0.png)
+
 
 외적인 요인이 많다
 
@@ -38,7 +38,8 @@ A/B 테스트
 
 - 넷플릭스에서 영화에 대한 포스터를 여러개로 나누어 보여준다.
 
-![Untitled](![2](https://user-images.githubusercontent.com/64204666/194036584-396f7efb-4762-42a0-b493-aa5b3e3213c5.png))
+![2](https://user-images.githubusercontent.com/64204666/194036829-519697ec-9030-46a3-9eba-81142c32cd8d.png)
+
 
 왜 A/B 테스트를 하는가?
 
@@ -76,7 +77,8 @@ A/B 테스트
 
 - on/off 스위치
 
-![Untitled](![3](https://user-images.githubusercontent.com/64204666/194036637-3e41c564-bc3e-4815-8296-0d196a4e46d3.png))
+![3](https://user-images.githubusercontent.com/64204666/194036849-a4f4765c-3663-4a88-aca6-9494b1d2234f.png)
+
 
 blue/green 배포
 
