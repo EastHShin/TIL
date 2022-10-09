@@ -32,3 +32,16 @@
     - 충돌이 발생할 시 해시 함수를 한번 더 적용함
     - 충돌의 발생 가능성 아주 낮음
     - 추가적인 해시 함수 연산이 있기 때문에 해시 함수의 성능이 해시 테이블 전체에 큰 영향을 끼침
+
+### HashTable VS HashMap
+
+- Thread-safe 여부
+    - HashTable은 Thread-safe
+        - 내부 구현에서 synchronized 키워드 사용
+            - 성능적 단점
+    - HashMap은 Thread-safe 하지 않음
+        - ConcurrentHashMap 의 도입 (Thread-safe)
+            - 주요 메서드에 synchronized 키워드 선언 되어있진 않음
+- Null 값 허용 여부
+    - HashTable은 key에 null 허용 하지 않음
+    - HashMap은 key에 null 허용
